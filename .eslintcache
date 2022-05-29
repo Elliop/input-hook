@@ -1,0 +1,77 @@
+[
+  {
+    "/Users/elliop/Desktop/use-input-hook/src/index.js": "1",
+    "/Users/elliop/Desktop/use-input-hook/src/App.js": "2",
+    "/Users/elliop/Desktop/use-input-hook/src/components/BasicForm.js": "3",
+    "/Users/elliop/Desktop/use-input-hook/src/hooks/use-input.js": "4"
+  },
+  {
+    "size": 179,
+    "mtime": 1653853153027,
+    "results": "5",
+    "hashOfConfig": "6"
+  },
+  {
+    "size": 162,
+    "mtime": 1653853153026,
+    "results": "7",
+    "hashOfConfig": "6"
+  },
+  {
+    "size": 2937,
+    "mtime": 1653853153027,
+    "results": "8",
+    "hashOfConfig": "6"
+  },
+  {
+    "size": 689,
+    "mtime": 1653853153027,
+    "results": "9",
+    "hashOfConfig": "6"
+  },
+  {
+    "filePath": "10",
+    "messages": "11",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  "1dlk0kv",
+  {
+    "filePath": "12",
+    "messages": "13",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "14",
+    "messages": "15",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "16",
+    "messages": "17",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  "/Users/elliop/Desktop/use-input-hook/src/index.js",
+  [],
+  "/Users/elliop/Desktop/use-input-hook/src/App.js",
+  [],
+  "/Users/elliop/Desktop/use-input-hook/src/components/BasicForm.js",
+  [],
+  "/Users/elliop/Desktop/use-input-hook/src/hooks/use-input.js",
+  []
+]
